@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vigneshrajvvr
 - 👀 I’m interested in Application development
-- 🌱 I’m currently learning Spring Boot, Microservices, Java advanced features, Data Structures and Algorithms, HTML, CSS and Javascript.
+- 🌱 I’m learning Spring Boot, Microservices, Java advanced features, Data Structures and Algorithms, HTML, CSS and Javascript.
 - 📫 How to reach me  https://linkedin.com/in/vignesh-raj-velraj/
 
 <!---
