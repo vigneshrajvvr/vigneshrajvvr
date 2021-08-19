@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vigneshrajvvr
+- 👋 Hi, I’m Vignesh Raj
 - 👀 I’m interested in developing applications and solving complex problems.
 - 🌱 I’m learning Spring Boot, Microservices, Java advanced features, AWS, Data Structures and Algorithms, HTML, CSS and Javascript.
 - 📫 How to reach me  https://linkedin.com/in/vignesh-raj-velraj/
