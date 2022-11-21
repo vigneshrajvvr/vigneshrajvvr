@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vignesh Raj
 - 👀 I’m interested in developing applications and solving complex problems.
-- 🌱 I’m learning Spring Boot, Microservices, Java advanced features, Microsoft Azure, Data Structures and Algorithms, MySQL for Business Intelligence.
+- 🌱 I’m learning Spring Boot, Microservices, Java 11, Microsoft Azure, Data Structures and Algorithms, Oracle.
 - 📫 How to reach me  https://linkedin.com/in/vignesh-raj-velraj/
 
 <!---
