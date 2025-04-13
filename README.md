@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vignesh Raj
 - 👀 I’m interested in developing applications and solving complex problems.
-- 🌱 I’m learning Spring Boot, Microservices, Docker, Kafka, Java 11, AWS, Data Structures and Algorithms, Oracle/MySQL.
+- 🌱 I’m learning Spring Boot, Microservices, Docker, Kafka, Java, AWS, Data Structures and Algorithms, MySQL.
 - 📫 How to reach me  https://linkedin.com/in/vignesh-raj-velraj/
 
 <!---
